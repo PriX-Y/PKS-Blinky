@@ -16,3 +16,6 @@ electronic;
 
 programs:
 **kicad**
+
+there is bom
+<img width="562" height="160" alt="image" src="https://github.com/user-attachments/assets/406da387-4f1c-4fcd-a979-2515481ab1e0" />
