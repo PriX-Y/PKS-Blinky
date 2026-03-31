@@ -19,4 +19,4 @@ programs:
 **kicad**
 
 there is bom
-<img width="562" height="160" alt="image" src="https://github.com/user-attachments/assets/406da387-4f1c-4fcd-a979-2515481ab1e0" />
+<img width="636" height="349" alt="image" src="https://github.com/user-attachments/assets/13425529-e959-4211-9143-370737959052" />
