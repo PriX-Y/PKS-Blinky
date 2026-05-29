@@ -1,6 +1,8 @@
 # PKS-Blinky
 led cheaser made with Hack Club Statis
 
+<img width="4080" height="2296" alt="image" src="https://github.com/user-attachments/assets/2b6c4cf0-d7f8-4665-8d16-86de44000696" />
+
 Simple squre led cheser (squere becuse PKS mean autobus in poland)
 i have all part to buldi i without kit
 
